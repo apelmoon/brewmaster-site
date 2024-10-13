@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-Bold.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-Book.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-BoldItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-BookItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-Light.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-MediumItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean ExtBd';
+    src: url('FuturaLTPaneuropean-ExtraBoldItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-LightItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean ExtBd';
+    src: url('FuturaLTPaneuropean-ExtraBold.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-Medium.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-HeavyItalic.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LT Paneuropean';
+    src: url('FuturaLTPaneuropean-Heavy.woff2') format('woff2'),
+        url('FuturaLTPaneuropean-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
